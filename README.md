@@ -18,4 +18,4 @@ Every time the timeout is reached, another sketch code is send and the display t
 
 # Example
 
-You can see this working [here](https://isaacmg.gitlab.io).
+You can see this working [here](https://isaacmg.gitlab.io/sketchs/p5EasyScreen/index.html).
