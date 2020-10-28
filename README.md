@@ -41,6 +41,22 @@ The sketches has to be regular p5.js files. If you want to show the author of th
 let author = "Your name";
 ```
 
+For full screen of the sketch, windowWidth and windowHeight has to be used in setup() function when creatingCanvas.
+
+```JS
+function setup() {
+  let myCanvas = createCanvas(windowWidth, windowHeight);
+  ...
+}
+```
+
+Also, if the window changes:
+
+```JS
+function windowResized() {
+   resizeCanvas(windowWidth, windowHeight);
+}
+```
 
 # Example
 
