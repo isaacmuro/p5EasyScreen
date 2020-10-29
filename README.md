@@ -1,6 +1,6 @@
 # About the project
 
-p5EasyScreen is a simple serverless solution to screen p5.js sketches sequentially during determined time. For educational purposes, it can screen all the class sketches to show them. This solution uses the localStorage to share the sketches code between the tabs.
+p5EasyScreen is a simple serverless solution to project p5.js sketches sequentially during determined time. For educational purposes, it can screen all the class sketches to show them. This solution uses the localStorage to share the sketches code between the tabs.
 
 # Built with
 
